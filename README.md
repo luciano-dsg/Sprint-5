@@ -10,4 +10,5 @@ O objetivo deste projeto é fornecer uma interface visual e simples sobre a dist
 - **Visualização de Distribuição:** Um histograma interativo que demonstra a frequência de quilometragem (`odometer`) dos veículos.
 - **Gráficos Dinâmicos:** Interface web que gera gráficos através de botões interativos.
 
-
+## URL no Render:
+    https://sprint-5-y61a.onrender.com/
