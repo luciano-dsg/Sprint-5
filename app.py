@@ -6,8 +6,7 @@ st.header('Análise de anúncios de venda de carros')
 car_data = pd.read_csv('vehicles.csv') # lendo os dados
 hist_button = st.button('Criar histograma') # criar um botão
 if hist_button: # se o botão for clicado
-# escrever uma mensagem
-    st.write('Criando um histograma para o conjunto de dados de anúncios de vendas de carros')
+    st.write('Criando um histograma para o conjunto de dados de anúncios de vendas de carros') # escrever uma mensagem
 
     # criar um histograma
     fig = px.histogram(car_data, x="odometer")
