@@ -8,7 +8,7 @@ Este é um aplicativo web interativo desenvolvido em Python para realizar a Aná
 O objetivo deste projeto é fornecer uma interface visual e simples sobre a distribuição da quilometragem dos veículos anunciados.
 
 ## Funcionalidades
-- **Visualização de Distribuição:** Um histograma interativo que demonstra a frequência de quilometragem (`odometer`) dos veículos. Um gráfico de dispersão que demonstra a relação ou correlação entre quilometragem e preço
+- **Visualização de Distribuição:** Um histograma interativo que demonstra a frequência de quilometragem (`odometer`) dos veículos e um gráfico de dispersão que demonstra a relação ou correlação entre quilometragem e preço.
 - **Gráficos Dinâmicos:** Interface web que gera gráficos através de botões interativos.
 
 ## URL no Render:
